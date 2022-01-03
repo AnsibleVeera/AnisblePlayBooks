@@ -1,4 +1,4 @@
-- hosts: APPServer
+- hosts: appServers
   become: yes
   tasks:
   - name: Download Long Term Jenkins release
