@@ -1,5 +1,5 @@
 ---
-- hosts: appServers
+- hosts: jenkinsIn
   gather_facts: no
   remote_user: ansible
   tasks:
